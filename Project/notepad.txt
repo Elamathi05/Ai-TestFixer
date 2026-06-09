@@ -1,0 +1,8 @@
+
+cd "C:\Users\vidhy\Desktop\Self-Healing-Selenium-Tests"
+
+python tests\login_test.py --locator submitBtn
+
+python tests\login_test.py --locator submitButton
+
+http://localhost:8501/
